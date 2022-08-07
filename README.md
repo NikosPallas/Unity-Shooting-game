@@ -1,1 +1,3 @@
 # Unity-Shooting-game
+The project of my thesis to acquire my bachelor's degree.
+...is on loading...
