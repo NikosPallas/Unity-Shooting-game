@@ -8,5 +8,5 @@ Crystal Hunter
 
 Plot: 
 The main plot is that the knowledge of Java language has been locked in crystals which had been scattered in different worlds in time.
-The player's mission is to discover and collect all the crystals answering the questions that protect them in. 
+The player's mission is to discover and collect all the crystals answering the questions that protect them. 
 
