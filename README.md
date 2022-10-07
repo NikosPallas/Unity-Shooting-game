@@ -10,7 +10,7 @@ Plot:
 The main plot is that the knowledge of Java language has been locked in crystals which had been scattered in different worlds in time.
 The player's mission is to discover and collect all the crystals answering the questions that protect them. 
 
-Game consists of 3 stages. Here is a small video from its gameplay in second stage.
+Game consists of 3 stages. Here is a small video from its gameplay in the second stage.
 
 P.S.
 I didn't upload the code because it is a part of my thesis.
